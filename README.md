@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vickalchev
-- 👀 I’m interested in learning web development and Web3
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on beginner's projects
+- 👀 I’m learning in public full stack web development
+- 🌱 My current stack is HTML, CSS and JavaScript (working to add React to this list soon). 
+- 💞️ I’m interested in contributing to open source projects 
 - 📫 How to reach me on twitter at @vickalchev
 
 <!---
